@@ -129,8 +129,6 @@
 //left hand trackball configuration
 
 &trackball_central_listener {
-    input-processors = <>;
-
     scroll_mode {
         layers = <5>;
         input-processors =
