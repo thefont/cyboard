@@ -70,7 +70,7 @@
 &none                   &kp Z                 &kp X                  &kp C           &kp V               &kp B                          &kp N     &kp M                  &kp COMMA        &kp DOT              &kp FSLH                   &none
 &kp LC(LA(LEFT_SHIFT))  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none           &mo 5                                                        &kp LEFT               &kp DOWN_ARROW   &kp UP_ARROW         &kp RIGHT_ARROW            &none
                                                                                      &kp SPACE           &kp BACKSPACE         &none    &mkp MB1  &delete_scroll         &kp RET
-                                                                                     &kp GRAVE           &kp LEFT_PARENTHESIS  &none    &mkp MB2  &kp RIGHT_PARENTHESIS  &none
+                                                                                     &kp GRAVE           &kp LEFT_PARENTHESIS  &none    &mkp MB2  &kp RIGHT_PARENTHESIS  &tog 2
             >;
         };
 
